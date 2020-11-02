@@ -1,0 +1,6 @@
+if (N) {
+   N>50
+   N-10
+   } else {
+   NX2+5
+Print the N   
